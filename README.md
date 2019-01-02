@@ -1,5 +1,7 @@
 # portolan
-A project for visualizing Kubernetes Helm Charts
+Dictionary Definition: a book of sailing directions with charts and descriptions of harbors and coasts.
+
+Project Definition: A project for visualizing Kubernetes Helm Charts
 
 This is personal OpenSource project that is currently **in progress**, and **very new.**
 
